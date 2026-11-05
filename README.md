@@ -57,20 +57,6 @@ FareWatch does not sell tickets. It only tracks prices and discounts, unlike the
 | Automated build and tests with GitHub Actions | Working |
 | Supabase blob storage bucket | Created |
 
-## 5. Not completed in this version
-
-Being honest about what is unfinished:
-
-- Google single sign-on (SSO)
-- Offline mode with Room database sync
-- Push notifications (Firebase Cloud Messaging)
-- Multi-language support (isiZulu, Afrikaans)
-- Settings screen and profile picture upload in the app interface
-- Signed release APK and Play Store publication
-
-These were planned in my Part 1 design document and remain future work.
-
-## 6. GitHub and GitHub Actions
 
 The project uses Git for version control. A GitHub Actions workflow (`.github/workflows/android.yml`) runs on every push:
 
