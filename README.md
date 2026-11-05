@@ -4,7 +4,7 @@ An Android app that helps travellers track airline ticket prices and spot discou
 
 **Student:** Sinoxolo Mkosi (ST10445407) | **Module:** OPSC6312 | **Rosebank College (The IIE)**
 
-🎥 **Demo video:** [YOUTUBE LINK]
+🎥 **Demo video:** https://youtube.com/shorts/VgJcrELqbpo?si=xZqECjD6fg9AJY3p
 
 🔗 **API repository:** https://github.com/SinoMkosi/farewatch-api
 
